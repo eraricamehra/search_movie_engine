@@ -1,3 +1,14 @@
+##Overview
+This project is a demonstration of a Movie Search Engine developed using Typescript, Tailwind CSS, and Next.js. It leverages the TMDB API to retrieve movie details based on their titles and showcases the results.
+
+##Skills
+- Typescript
+- Tailwind CSS
+- Next.js
+- TMDB account and API key
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
